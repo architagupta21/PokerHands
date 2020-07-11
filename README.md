@@ -9,8 +9,10 @@ To run the program:
 3. It uses, two python libraries:
    - one for regex ('re')
    - one for fetching input/output files('sys')
-   Please ensure these are present.
+Please ensure these are present.
+
 4. Finally, to execute:
-   python poker.py [path to input file][path to output fie]
+
+python poker.py [path to input file] [path to output file]
 
 Thank You!
